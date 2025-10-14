@@ -1,0 +1,24 @@
+# Ignore virtual environments
+venv/
+.env/
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore cache and temporary files
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore raw data files (optional)
+# data/raw/
+# data/processed/
+
+# Ignore Excel/CSV backups
+*.csv
+*.xlsx
+*.xls
+
+# VS Code workspace settings
+.vscode/
