@@ -24,4 +24,4 @@ A curated portfolio of data analysis projects applying Python, SQL, and Power BI
 
 ## 👤 Author
 **Oluwadamilare**  
-📩 [Email](mailto:egbanubi.oluwadamilare@gmail.com) | 🌐 [LinkedIn]([(https://www.linkedin.com/in/egbanubi-oluwadamilare/))
+📩 [Email](mailto:egbanubi.oluwadamilare@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/egbanubi-oluwadamilare/)
