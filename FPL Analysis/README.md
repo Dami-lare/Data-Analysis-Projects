@@ -40,7 +40,3 @@ The dataset includes around **745 player records** and **37 statistical columns*
 - High “form” doesn’t always translate to consistent points—player rotation and fixtures matter.  
 - ICT (Influence, Creativity, Threat) metrics serve as strong predictors for upcoming form.  
 
-## 🚀 How to Reproduce
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Dami-lare/Data-Analysis-Projects.git
